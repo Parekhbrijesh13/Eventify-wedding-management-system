@@ -144,4 +144,4 @@ Contributions are welcome!
 Open an issue to discuss any changes.
 
 📄 License
-This project is created for educational and learning purposes.
+This project is created for educational and learning purposes for BCA 5th sem.
